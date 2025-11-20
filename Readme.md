@@ -44,3 +44,13 @@ docente puede crear materias y ver la gente q pago por esas materias
 
 usuario puede matricularce a materias y puede pagarlas al 100 o 50 %
 
+que no hacer :
+no tocar el backend si no le entienden a initializer y a migrations arquitectura exagonal 
+
+tambien 
+no tocar en el front / service
+ni context en el auth 
+
+luego el front haganlo ustedes no sean flojos putas 
+
+
